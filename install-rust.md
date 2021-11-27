@@ -15,4 +15,9 @@ All your goodies for building, testing, and maintaining your Rust code are insta
 $ export PATH=$HOME/.cargo/bin:$PATH
 ```
 
+You can store your projects however you like, but I use a variant of the old "Go Path" route for my projects, and it means whether I'm working on a fork, or a direct clone of a repo, I can find it easily. I use a path called `code` in my home directory to store all of my projects, including their repository path. I also use this folder to hold my compiled Go binaries, so the full path to the directory containing my projects ends up being `~/code/src/github.com/aftertale`:
+```
+$ mkdir -p ~/code/src/github.com/<yourGitHubAccount>
+```
+
 
