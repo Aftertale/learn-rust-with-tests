@@ -1,5 +1,4 @@
 # Introduction
----
 Welcome to Learning Rust with Tests! At the moment, this is still very much a work in progress, so I hope that if you see a mistake, something I'm missing, or just something you'd like to see added, you will [fill out an issue in github](https://github.com/Aftertale/learn-rust-with-tests/issues). 
 
 ## Conventions
